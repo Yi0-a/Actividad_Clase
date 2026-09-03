@@ -1,0 +1,10 @@
+
+Productos	Precio
+Huevos		12000
+Carne		20000
+Arroz		2000
+Lenteja		1500
+Leche		4000
+Garbanzo	2000
+Cafe		3000
+Azucar		3000
