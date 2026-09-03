@@ -1,0 +1,5 @@
+
+Promocion		Precio
+Huevos, leche y arroz	14000
+Carne y garbanzos	18000
+leche, cafe y azucar	12000
